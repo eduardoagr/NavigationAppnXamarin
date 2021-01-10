@@ -1,0 +1,1 @@
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation.UWP\Navigation.UWP.csproj;x86

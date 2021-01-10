@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tl4AHlSsDHbCpUjLfYENQ5TenlfmVvI4UHQEk2WNd1KjUZda5d6ihGXrDoKRdHkgt6fLZSPAiiy4VLG/EEgP3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egome\\Documents\\GitRepos\\NavigationAppnXamarin\\Navigation\\Navigation\\Navigation.iOS\\Navigation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egome\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.1874\\xamarin.forms.visual.material.5.0.0.1874.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.deps.json
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.dll
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\ref\Navigation.dll
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.pdb
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csprojAssemblyReference.cache
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfoInputs.cache
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfo.cs
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.dll
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ref\Navigation.dll
+C:\Users\egome\Documents\GitRepos\NavigationAppnXamarin\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.pdb
